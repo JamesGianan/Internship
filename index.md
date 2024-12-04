@@ -1,4 +1,4 @@
 ---
-title: Internship task #1
+title: Internship task 1
 ---
 
